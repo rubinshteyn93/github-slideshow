@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our rubinshteyn's slide!"
 ---
-My new text
+This is my awesome slide
 Use the left arrow to go back!
